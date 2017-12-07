@@ -8,6 +8,8 @@ It has been tested under Window 8 with a Matlab R2012a environment.
 The `src` folder contains several subfolders with name of protein id from [PDB database](http://www.rcsb.org/).  
 Each subfolder contains independent program for optimizating the protein struture using a balance-evolution artificial bee colony (BE-ABC) algorithm.  
 Click `runmeLQ.me` to start the optimization.  
+Here is an example of the optimization process of protein `1AGT`  
+![][/src/Demo.png]
 
 # Citation
 Li B, Lin M, **Liu Q**, et al. Protein folding optimization based on 3D off-lattice model via an improved artificial bee colony algorithm[J]. *Journal of molecular modeling*, 2015, 21(10): 261.
